@@ -12,8 +12,8 @@ const portfolioData = {
   ],
   "experience": [
     {
-      "role": "Senior Frontend Engineer",
-      "company": "Tech Innovators",
+      "role": "SDE",
+      "company": "Jp Morgan Chase",
       "duration": "2022 - Present",
       "description": "Led the frontend team in migrating a legacy monolithic application to a modern micro-frontend architecture using React and Vite. Improved performance by 40%."
     },
