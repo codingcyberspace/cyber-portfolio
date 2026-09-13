@@ -1,4 +1,3 @@
-```javascript
 const portfolioData = {
   personal: {
     name: "Manav Bhatia",
@@ -8,29 +7,35 @@ const portfolioData = {
     linkedin: "https://linkedin.com",
     about:
       "I am a first-year CSE student at IIIT Dharwad, currently learning C++ and exploring programming, problem solving, web development, and AI."
+  },
 
-  skills: [
-    "C++",
-    "Python",
-    "HTML",
-    "SQL"
-  ],
+  skills: ["C++", "Python", "HTML", "SQL"],
 
   experience: [
     {
-      title: "Open To Work",
+      role: "Open To Work",
+      company: "Looking for opportunities",
+      duration: "2026 — Present",
       description:
         "Open to internships, projects, hackathons, and learning opportunities."
     }
   ],
 
-  projects: [],
+  projects: [
+    // script.js expects each project to look like this:
+    // {
+    //   name: "Project Name",
+    //   description: "What it does.",
+    //   technologies: ["C++", "SQL"],
+    //   link: "https://github.com/codingcyberspace/project-repo"
+    // }
+  ],
 
   education: [
     {
       degree: "B.Tech in Computer Science and Engineering",
       institution: "IIIT Dharwad",
-      status: "Currently Pursuing"
+      duration: "Currently Pursuing"
     }
   ]
 };
