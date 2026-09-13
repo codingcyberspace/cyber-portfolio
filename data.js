@@ -5,7 +5,7 @@ const portfolioData = {
     "email": "manavcyberspace@gmail.com",
     "github": "https://github.com/codingcyberspace",
     "linkedin": "https://linkedin.com",
-    "about": "I am currently exploring fields. Passionate about creating seamless user experiences and writing clean, efficient code."
+    "about": "I am currently exploring fields. Passionate abt creating seamless user experiences and writing clean, efficient code."
   },
   "skills": [
     "SQL","C++", "Python","HTML"
