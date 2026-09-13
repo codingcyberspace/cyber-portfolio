@@ -8,7 +8,6 @@ const portfolioData = {
     linkedin: "https://linkedin.com",
     about:
       "I am a first-year CSE student at IIIT Dharwad, currently learning C++ and exploring programming, problem solving, web development, and AI."
-  },
 
   skills: [
     "C++",
